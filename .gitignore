@@ -1,0 +1,5 @@
+First keylog save_timestamp.txt
+First keylog save.txt
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,6 @@
+[2026-10-22 04:44:31] Key pressed: Shift_L
+[2026-10-22 04:44:31] Key pressed: H
+[2026-10-22 04:44:31] Key pressed: e
+[2026-10-22 04:44:32] Key pressed: l
+[2026-10-22 04:44:32] Key pressed: l
+[2026-10-22 04:44:33] Key pressed: o
