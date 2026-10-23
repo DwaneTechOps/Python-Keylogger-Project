@@ -1,11 +1,12 @@
 from collections import Counter
 from pathlib import Path
 
-log_file = Path(__file__).with_name("First keylog save_timestamp.txt")
+log_file = Path(__file__).with_name("sample_output.txt")
 
 if not log_file.exists():
-    print("Error: Log file not found.")
-    print("Saved your timestamp file to your project folder.")
+    print("Error: The log file could not be found.")
+    print(f"Expected file: {log_file}")
+    print("Please check that the file exists and try again.")
     raise SystemExit(1)
 
 with log_file.open("r", encoding="utf-8") as file:
